@@ -1,0 +1,17 @@
+sys_151_init = {
+    # class = random
+
+    planet = {
+		count = 1
+		name = "Luna"
+		class = "pc_barren"
+		entity = "cold_barren_planet_luna_entity"
+		orbit_distance = 0
+		orbit_angle = 1
+		size = 10
+		# flags = { first }
+		init_effect = {
+			generate_moon_resource = yes
+		}
+    }
+}

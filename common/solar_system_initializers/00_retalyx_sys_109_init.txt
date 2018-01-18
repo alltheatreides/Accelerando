@@ -1,0 +1,12 @@
+sys_109_init = {
+    # class = random
+
+    planet = {
+        name = "Mercury"
+		class = "pc_extreme_barren"
+		entity = "barren_planet_09_entity"
+		orbit_distance = 0
+		size = 10
+		flags = { first }
+    }
+}

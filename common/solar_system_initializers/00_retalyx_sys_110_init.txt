@@ -1,0 +1,11 @@
+sys_110_init = {
+    # class = random
+
+    planet = {
+        name = "Venus"
+		class = "pc_greenhouse_hot"
+		orbit_distance = 0
+		size = 18
+		flags = { second }
+    }
+}

@@ -1,0 +1,10 @@
+sys_120_init = {
+    # class = random
+
+    planet = {
+        name = "NAME_Sol"
+		class = "pc_g_star"
+        orbit_distance = 0
+        size = 100
+    }
+}

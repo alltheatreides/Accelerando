@@ -1,0 +1,89 @@
+sys_260_init = {
+    # class = sc_mars
+	
+	# planet = {
+		# name = "Mars"
+		# class = pc_martian
+		# orbit_distance = 0
+		# orbit_angle = 1
+		# size = 30
+		# has_ring = no
+	# }
+	
+	
+    # planet = {
+		# count = 1
+		# name = "Mars"
+		# class = "pc_semi_barren"
+		# entity = "barren_planet_mars_entity"
+		# orbit_distance = 0
+		# orbit_angle = 1
+		# size = 20
+		
+    # }
+	
+	# planet = {		
+		# name = "Mars Surface 1"
+		# class = "pc_semi_barren"
+		# entity = "barren_planet_mars_entity"
+		# size = 20
+		# orbit_distance = 62
+        # orbit_angle = 229
+        # has_ring = no
+    # }
+	
+	# planet = {		
+		# name = "Mars Surface 2"
+		# class = "pc_semi_barren"
+		# entity = "barren_planet_mars_entity"
+		# orbit_distance = 0
+        # orbit_angle = 82
+        # has_ring = no
+		# size = 20
+		
+    # }
+	
+	# planet = {		
+		# name = "Mars Surface 3"
+		# class = "pc_semi_barren"
+		# entity = "barren_planet_mars_entity"
+		# orbit_distance = 0
+        # orbit_angle = 99
+        # has_ring = no
+		# size = 20
+		
+    # }
+	
+	# planet = {
+		# name = "Mars Surface 4"
+		# class = "pc_semi_barren"
+		# entity = "barren_planet_mars_entity"
+		# orbit_distance = 0
+        # orbit_angle = 83
+        # has_ring = no
+		# size = 20
+		
+    # }
+	
+	# planet = {
+		# name = "Mars Surface 5"
+		# class = "pc_semi_barren"
+		# entity = "barren_planet_mars_entity"
+		# orbit_distance = 0
+        # orbit_angle = 137
+        # has_ring = no
+		# size = 20
+		
+    # }
+	
+	# planet = {
+		# name = "Mars Surface 6"
+		# class = "pc_semi_barren"
+		# entity = "barren_planet_mars_entity"
+		# orbit_distance = 0
+        # orbit_angle = 180
+        # has_ring = no
+		# size = 20
+		
+    # }
+}
